@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarisPrespects-23849
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Deep Learning.
 - 🌱 I’m currently learning DSA, MERN Stack, DevOps.
-- 💞️ I’m looking to collaborate on java.
+- 💞️ I’m looking to collaborate on MERN STACK,DEVOPS.
 - 📫 You can reach me through my github or email - baricasualmail77@gmail.com.
 
 <!---
