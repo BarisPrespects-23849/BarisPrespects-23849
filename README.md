@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP,LLMs,AI**
 
-- 👯 I’m looking to collaborate on **NLP and LLM Projects **
+- 👯 I’m looking to collaborate on **Full Stack,AI,NLP and LLM Projets**
 
 - 📫 How to reach me **barisanninja047@gmail.com**
 
